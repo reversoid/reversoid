@@ -1,6 +1,6 @@
 - 👋 Hi there! My name is George 
 - 👀 I’m junior web-developer, working with React, Redux, Node.js and TypeScript
-- 🌱 Always is looking for offers!
+- 🌏 Always is looking for new offers!
 - 📫 You can reach me via my [website](https://reversoid.ru) or email <a href="email:whereyouwere@icloud.com">whereyouwere@icloud.com</a> 
 
 <!---
