@@ -1,6 +1,7 @@
 - 👋 Hi there! My name is George 
-- 👀 I’m junior web-developer, working with React, Redux, Node.js and TypeScript
+- 👀 I’m junior web-developer, working with Angular, TypeScript, React, Redux, Nest.js, Node.js 
 - 🌏 Always is looking for new offers!
+- 🪐 Here i am going to post my personal projects
 - 📫 You can reach me via my [website](https://reversoid.ru) or email <a href="email:whereyouwere@icloud.com">whereyouwere@icloud.com</a> 
 
 <!---
