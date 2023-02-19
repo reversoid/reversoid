@@ -1,7 +1,6 @@
 - 👋 Hi there! My name is George 
 - 👀 I’m web-developer, working with Angular, TypeScript, React, Redux, Nest.js, Node.js 
-- 🌏 Always is looking for new offers!
-- 🪐 Here i am going to post my personal projects
+- 🪐 Here i am posting my personal projects
 - 📫 You can reach me via my email <a href="email:whereyouwere@icloud.com">whereyouwere@icloud.com</a>
 - 🛡️ [Codewars profile](https://www.codewars.com/users/reversoid)
 
