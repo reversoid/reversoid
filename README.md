@@ -1,4 +1,4 @@
-- 👋 Hi there! My name is George, founder of [moofy.ru](moofy.ru)
+- 👋 Hi there! My name is George, founder of [https://moofy.ru](moofy.ru)
 - 👀 I’m full-stack web-developer, working with Angular, React, Typescript, Redux, NgRx, Effector, Nest.js, Node.js, Docker, Nginx 
 - 🪐 Here i am posting my personal projects
 - 📫 You can reach me via my email <a href="email:whereyouwere@icloud.com">whereyouwere@icloud.com</a>
